@@ -31,7 +31,7 @@
 
 [**Forum**](https://github.com/Hukex/Forum)|Technologies💻(ASP.NET,C#,HTML,CSS,BOOTSTRAP4,ENTITY FRAMEWORK(SQL),JAVASCRIPT,RAZOR) |
 -----|-----|
-<img src="https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif" width="300"/>| Forum made mainly with ASP.NET.                                         |
+<img src="https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif" width="300"/>| Forum made mainly with ASP.NET.                       |
 
 
 [**Museum**](https://github.com/Hukex/Museum)|Technologies💻(HTML,CSS,JAVASCRIPT,BOOTSTRAP4,JQUERY) |
@@ -41,7 +41,7 @@
 
 [**GobCanWebSimulation**](https://github.com/Hukex/GobCanWebSimulation)|Technologies💻(HTML,CSS,PHP 7.4.5,XML,XAMPP(Apache+MySQL)) |
 -----|-----|
-<img src="https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview.gif" width="300"/>| This project is a simulation of a new page for GobCan Website developed on PHP.                                          |
+<img src="https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview.gif" width="300"/>| This project is a simulation of a new page for GobCan Website developed on PHP.                       |
 
 [**CanvasCharts**](https://github.com/Hukex/CanvasCharts)|Technologies💻(HTML,CSS,JAVASCRIPT) |
 -----|-----|
