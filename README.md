@@ -34,7 +34,7 @@
 <img src="https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif" width="400"/>| Forum made mainly with ASP.NET.                |
 
 
-[**Museum**](https://github.com/Hukex/Museum)|Technologies💻(HTML,CSS,JAVASCRIPT,BOOTSTRAP4,JQUERY) |
+[**Museum**](https://github.com/Hukex/Museum)|                     Technologies💻(HTML,CSS,JAVASCRIPT,BOOTSTRAP4,JQUERY)                      |
 -----|-----|
 <img src="https://github.com/Hukex/Museum/blob/master/readmefiles/preview.gif" width="400"/>| Website simulation of an Art Museum 🏛                                                              |
 
