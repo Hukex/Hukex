@@ -5,15 +5,30 @@
 <img src="https://github.com/Hukex/Hukex/blob/master/x.gif" width="50%"/>
 </p>
 
-[**Contacts**](https://github.com/Hukex/Contacts)|[**Minesweeper**](https://github.com/Hukex/Minesweeper)|[**Forum**](https://github.com/Hukex/Forum)
------|-----|-----
-![GIF](https://github.com/Hukex/Contacts/blob/master/readmefiles/preview.gif)|![GIF](https://github.com/Hukex/Minesweeper/blob/master/readmefiles/preview.gif)| ![GIF](https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif)
-
-[**Museum**](https://github.com/Hukex/Museum)|[**GobCanWebSimulation**](https://github.com/Hukex/GobCanWebSimulation)|[**CanvasCharts**](https://github.com/Hukex/CanvasCharts)
------|-----|-----
-![GIF](https://github.com/Hukex/Museum/blob/master/readmefiles/preview.gif)|![GIF](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview.gif)| ![GIF](https://github.com/Hukex/CanvasCharts/blob/master/readmefiles/preview.gif)
-
-[**Cinema**](https://github.com/Hukex/Cinema)
+[**Contacts**](https://github.com/Hukex/Contacts)|
 -----|
-<img src="https://github.com/Hukex/Cinema/blob/master/readmefiles/preview.gif" height="40%"/>|
+![GIF](https://github.com/Hukex/Contacts/blob/master/readmefiles/preview.gif)|
 
+[**Minesweeper**](https://github.com/Hukex/Minesweeper)|
+-----|
+![GIF](https://github.com/Hukex/Minesweeper/blob/master/readmefiles/preview.gif)| 
+
+[**Forum**](https://github.com/Hukex/Forum)|
+-----|
+![GIF](https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif)|
+
+[**Museum**](https://github.com/Hukex/Museum)|
+-----|
+![GIF](https://github.com/Hukex/Museum/blob/master/readmefiles/preview.gif)|
+
+[**GobCanWebSimulation**](https://github.com/Hukex/GobCanWebSimulation)|
+-----|
+![GIF](https://github.com/Hukex/GobCanWebSimulation/blob/master/readmefiles/preview.gif)|
+
+[**CanvasCharts**](https://github.com/Hukex/CanvasCharts)|
+-----|
+![GIF](https://github.com/Hukex/CanvasCharts/blob/master/readmefiles/preview.gif)|
+
+[**Cinema**](https://github.com/Hukex/Cinema)|
+-----|
+![GIF](https://github.com/Hukex/Cinema/blob/master/readmefiles/preview.gif)|
