@@ -19,6 +19,6 @@
 
 
 
-[**Contacts**](https://github.com/Hukex/Contacts) | 
+[**Contacts**](https://github.com/Hukex/Contacts) | |
 -----|-----|
 ![GIF](https://github.com/Hukex/Contacts/blob/master/readmefiles/preview.gif)| EXPLICACIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONND AISDH AISDIAS DIASH DIASHDOIASDASID JOAISD JOIASJD OIAS JDOIAS DJIOAS DJIOA|
