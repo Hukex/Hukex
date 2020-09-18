@@ -31,7 +31,7 @@
 
 [**Forum**](https://github.com/Hukex/Forum)|Technologies💻(ASP.NET,C#,HTML,CSS,BOOTSTRAP4,ENTITY FRAMEWORK(SQL),JAVASCRIPT,RAZOR)|
 -----|-----|
-<img src="https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif" width="400"/>| Forum made mainly with ASP.NET.                |
+<img src="https://github.com/Hukex/Forum/blob/master/readmefiles/preview.gif" width="400"/>| Forum made mainly with ASP.NET. |
 
 
 [**Museum**](https://github.com/Hukex/Museum)|Technologies💻(HTML,CSS,JAVASCRIPT,BOOTSTRAP4,JQUERY)                                                   |
