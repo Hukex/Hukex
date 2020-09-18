@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://github.com/Hukex/Hukex/blob/master/x.gif" width="50%"/>
-</p>
+
 
 [**Contacts**](https://github.com/Hukex/Contacts)|
 -----|
@@ -32,3 +32,5 @@
 [**Cinema**](https://github.com/Hukex/Cinema)|
 -----|
 ![GIF](https://github.com/Hukex/Cinema/blob/master/readmefiles/preview.gif)|
+
+</p>
