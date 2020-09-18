@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Fernando, I'm a web developer and here are some of my projects. Right now i'm interesting mobile apps and AI.
+### My name is Fernando, I'm a web developer and here are some of my projects. Right now i'm interesting on mobile apps and AI.
 
 <p align="center">
 <img src="https://github.com/Hukex/Hukex/blob/master/x.gif" width="50%"/>
