@@ -21,9 +21,9 @@
 
 [**Contacts**](https://github.com/Hukex/Contacts)|Technologies💻(JAVA,JAVA FX,NetBeans 8.2) |
 -----|-----|
-<img src="https://github.com/Hukex/Contacts/blob/master/readmefiles/preview.gif" height="300"/>| Contacts book 📘📞 developted with Java FX.                                            |
+<img src="https://github.com/Hukex/Contacts/blob/master/readmefiles/preview.gif" width="300"/>| Contacts book 📘📞 developted with Java FX.                                            |
 
 
 [**Minesweeper**](https://github.com/Hukex/Minesweeper)|Technologies💻(JAVA,JAVA FX,NetBeans 8.2) |
 -----|-----|
-<img src="https://github.com/Hukex/Minesweeper/blob/master/readmefiles/preview.gif" height="300"/>| Minesweeper 💣 game developted with Java FX.                                            |
+<img src="https://github.com/Hukex/Minesweeper/blob/master/readmefiles/preview.gif" width="300"/>| Minesweeper 💣 game developted with Java FX.                                            |
