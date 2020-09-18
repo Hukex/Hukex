@@ -15,4 +15,4 @@
 
 [**Cinema**](https://github.com/Hukex/Cinema)|
 -----|
-<img src="https://github.com/Hukex/Cinema/blob/master/readmefiles/preview.gif" height="40"/>|
+<img src="https://github.com/Hukex/Cinema/blob/master/readmefiles/preview.gif" height="200"/>|
